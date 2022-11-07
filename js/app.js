@@ -44,7 +44,6 @@ function videoPlayer() {
   document
     .querySelector(".first-screen .player__btn")
     .addEventListener("click", (e) => {
-      console.log("111111111111");
       changeIcon_PFS();
       video_PFS.paused ? playSong() : video_PFS.pause();
     });
