@@ -134,7 +134,7 @@ function audioPlayer() {
         durationSec < 10
           ? "0" + durationMin + ":" + "0" + durationSec
           : "0" + durationMin + ":" + durationSec;
-    }, 100);
+    }, 500);
   }
 
   function changeIcon() {
