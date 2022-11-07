@@ -10,8 +10,8 @@
 * Font Awesome
 * Адаптив
 
-Deployment:
-
+<b>Deployment:</b>
+https://rorrian.github.io/Landing-page-Bright-Lights-Band/
 _____________________
 
 <details>
@@ -22,3 +22,6 @@ _____________________
 При нажатии в меню-бургере перед действиями, закрываем его.
     
 </details>
+
+Development:
+https://github.com/Rorrian/Landing-page-Bright-Lights-Band-Development
