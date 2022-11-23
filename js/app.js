@@ -109,7 +109,7 @@ let outputCurrentTime = document.querySelector(".tracks .player__current-time"),
 function audioPlayer() {
   // List of songs
   const songs = [
-    "Eluveitie - Exile Of The Gods",
+    "Eluveitie-Exile_Of_The_Gods",
     "Eluveitie - The Call Of The Mountains",
     "In Extremo - Feuertaufe",
     "In Extremo - Sternhagelvoll",
